@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    margin-left: 300px;
+    margin-right: 300px;
+    box-shadow: 13px 2px 11px 0px rgba(31,0,31,1);
+    
+
+}
+
+
+#Nome{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 8px;
+}
+
+
+#Altura{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+#Peso{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 13px;
+}
+
+#calcular{
+    background-color:gray; 
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px; 
+    
+}
+
+.oi{
+    display: flex;
+    width: 400px;
+    height: 100px;
+}
+
+
